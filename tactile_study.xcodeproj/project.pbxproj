@@ -7,23 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8B9172012B8BB5A70085248C /* FileSelect_FromFileApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B9172002B8BB5A70085248C /* FileSelect_FromFileApp.swift */; };
+		8B9172032B8BBD320085248C /* Start.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B9172022B8BBD320085248C /* Start.swift */; };
+		8B9172072B9AE9C50085248C /* sound.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8B9172062B9AE9C50085248C /* sound.wav */; };
 		8BCCFC8D29990A8C00F9036E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BCCFC8C29990A8C00F9036E /* AppDelegate.swift */; };
 		8BCCFC8F29990A8C00F9036E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BCCFC8E29990A8C00F9036E /* SceneDelegate.swift */; };
-		8BCCFC9129990A8C00F9036E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BCCFC9029990A8C00F9036E /* ViewController.swift */; };
 		8BCCFC9429990A8C00F9036E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BCCFC9229990A8C00F9036E /* Main.storyboard */; };
 		8BCCFC9629990A8E00F9036E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BCCFC9529990A8E00F9036E /* Assets.xcassets */; };
 		8BCCFC9929990A8E00F9036E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BCCFC9729990A8E00F9036E /* LaunchScreen.storyboard */; };
+		8BCCFCA129990B9B00F9036E /* FileSelectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BCCFCA029990B9B00F9036E /* FileSelectViewController.swift */; };
+		8BCCFCA329990BB400F9036E /* ReadyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BCCFCA229990BB400F9036E /* ReadyViewController.swift */; };
+		8BCCFCA529990BD000F9036E /* cp1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BCCFCA429990BD000F9036E /* cp1.swift */; };
+		8BCCFCA729990BDD00F9036E /* cp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BCCFCA629990BDD00F9036E /* cp2.swift */; };
+		8BCCFCA929990C0B00F9036E /* Study.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BCCFCA829990C0B00F9036E /* Study.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8B9172002B8BB5A70085248C /* FileSelect_FromFileApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileSelect_FromFileApp.swift; sourceTree = "<group>"; };
+		8B9172022B8BBD320085248C /* Start.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Start.swift; sourceTree = "<group>"; };
+		8B9172062B9AE9C50085248C /* sound.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sound.wav; sourceTree = "<group>"; };
 		8BCCFC8929990A8B00F9036E /* tactile_study.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tactile_study.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BCCFC8C29990A8C00F9036E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8BCCFC8E29990A8C00F9036E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		8BCCFC9029990A8C00F9036E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		8BCCFC9329990A8C00F9036E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8BCCFC9529990A8E00F9036E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8BCCFC9829990A8E00F9036E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8BCCFC9A29990A8E00F9036E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8BCCFCA029990B9B00F9036E /* FileSelectViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileSelectViewController.swift; sourceTree = "<group>"; };
+		8BCCFCA229990BB400F9036E /* ReadyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadyViewController.swift; sourceTree = "<group>"; };
+		8BCCFCA429990BD000F9036E /* cp1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cp1.swift; sourceTree = "<group>"; };
+		8BCCFCA629990BDD00F9036E /* cp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cp2.swift; sourceTree = "<group>"; };
+		8BCCFCA829990C0B00F9036E /* Study.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Study.swift; sourceTree = "<group>"; };
+		8BCCFCAA29990F6300F9036E /* tactile_study.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = tactile_study.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,13 +71,21 @@
 		8BCCFC8B29990A8C00F9036E /* tactile_study */ = {
 			isa = PBXGroup;
 			children = (
+				8B9172062B9AE9C50085248C /* sound.wav */,
+				8BCCFCAA29990F6300F9036E /* tactile_study.entitlements */,
 				8BCCFC8C29990A8C00F9036E /* AppDelegate.swift */,
 				8BCCFC8E29990A8C00F9036E /* SceneDelegate.swift */,
-				8BCCFC9029990A8C00F9036E /* ViewController.swift */,
 				8BCCFC9229990A8C00F9036E /* Main.storyboard */,
 				8BCCFC9529990A8E00F9036E /* Assets.xcassets */,
 				8BCCFC9729990A8E00F9036E /* LaunchScreen.storyboard */,
 				8BCCFC9A29990A8E00F9036E /* Info.plist */,
+				8B9172022B8BBD320085248C /* Start.swift */,
+				8BCCFCA029990B9B00F9036E /* FileSelectViewController.swift */,
+				8B9172002B8BB5A70085248C /* FileSelect_FromFileApp.swift */,
+				8BCCFCA229990BB400F9036E /* ReadyViewController.swift */,
+				8BCCFCA429990BD000F9036E /* cp1.swift */,
+				8BCCFCA629990BDD00F9036E /* cp2.swift */,
+				8BCCFCA829990C0B00F9036E /* Study.swift */,
 			);
 			path = tactile_study;
 			sourceTree = "<group>";
@@ -128,6 +151,7 @@
 				8BCCFC9929990A8E00F9036E /* LaunchScreen.storyboard in Resources */,
 				8BCCFC9629990A8E00F9036E /* Assets.xcassets in Resources */,
 				8BCCFC9429990A8C00F9036E /* Main.storyboard in Resources */,
+				8B9172072B9AE9C50085248C /* sound.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,9 +162,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8BCCFC9129990A8C00F9036E /* ViewController.swift in Sources */,
+				8BCCFCA529990BD000F9036E /* cp1.swift in Sources */,
+				8BCCFCA329990BB400F9036E /* ReadyViewController.swift in Sources */,
+				8BCCFCA129990B9B00F9036E /* FileSelectViewController.swift in Sources */,
+				8B9172012B8BB5A70085248C /* FileSelect_FromFileApp.swift in Sources */,
+				8BCCFCA929990C0B00F9036E /* Study.swift in Sources */,
 				8BCCFC8D29990A8C00F9036E /* AppDelegate.swift in Sources */,
 				8BCCFC8F29990A8C00F9036E /* SceneDelegate.swift in Sources */,
+				8B9172032B8BBD320085248C /* Start.swift in Sources */,
+				8BCCFCA729990BDD00F9036E /* cp2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,9 +315,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = tactile_study/tactile_study.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 5NZKXSLJ4Q;
+				DEVELOPMENT_TEAM = 328JYWK2SM;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = tactile_study/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -300,7 +331,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.tactile-study";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.tactile-study-tactile";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -313,9 +344,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = tactile_study/tactile_study.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 5NZKXSLJ4Q;
+				DEVELOPMENT_TEAM = 328JYWK2SM;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = tactile_study/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -328,7 +360,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.tactile-study";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.tactile-study-tactile";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
